@@ -11,4 +11,4 @@
 
 - **AllanGrc** | Estudiante | Nicaragua
 - **Andy Dávila** | Ingeniería | Nicaragua
-- **Jhubran Leal**
+- **Jhubran Leal** | Nicaragua
